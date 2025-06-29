@@ -16,11 +16,6 @@ Welcome to **DoItBro** – a simple, sleek, and efficient to-do list app built u
 - 🎨 Styled using **Tailwind CSS**
 - 💡 Minimalist, responsive design
 
----
-
-## 📸 Preview
-
-![DoItBro Screenshot](https://doitbro.netlify.app/preview.png) <!-- Replace with your actual screenshot or remove this section if unavailable -->
 
 ---
 
@@ -35,8 +30,8 @@ To run the app locally:
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/doitbro.git
-cd doitbro
+git clone https://github.com/void-sayan/todo-app.git
+cd todo-app
 npm install
 npm run dev
 ```
